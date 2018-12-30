@@ -1,0 +1,12 @@
+C:\Users\Aykut\Documents\Visual Studio 2015\Projects\ReadToExcell\ReadToExcell\obj\Debug\ReadToExcell.csprojResolveAssemblyReference.cache
+C:\Users\Aykut\Documents\Visual Studio 2015\Projects\ReadToExcell\ReadToExcell\bin\Debug\ReadToExcell.exe.config
+C:\Users\Aykut\Documents\Visual Studio 2015\Projects\ReadToExcell\ReadToExcell\bin\Debug\ReadToExcell.exe
+C:\Users\Aykut\Documents\Visual Studio 2015\Projects\ReadToExcell\ReadToExcell\bin\Debug\ReadToExcell.pdb
+C:\Users\Aykut\Documents\Visual Studio 2015\Projects\ReadToExcell\ReadToExcell\bin\Debug\EntityFramework.dll
+C:\Users\Aykut\Documents\Visual Studio 2015\Projects\ReadToExcell\ReadToExcell\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Aykut\Documents\Visual Studio 2015\Projects\ReadToExcell\ReadToExcell\bin\Debug\EntityFramework.xml
+C:\Users\Aykut\Documents\Visual Studio 2015\Projects\ReadToExcell\ReadToExcell\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Aykut\Documents\Visual Studio 2015\Projects\ReadToExcell\ReadToExcell\obj\Debug\ReadToExcell.exe
+C:\Users\Aykut\Documents\Visual Studio 2015\Projects\ReadToExcell\ReadToExcell\obj\Debug\ReadToExcell.pdb
+C:\Users\Aykut\Documents\Visual Studio 2015\Projects\ReadToExcell\ReadToExcell\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Aykut\Documents\Visual Studio 2015\Projects\ReadToExcell\ReadToExcell\bin\Debug\DocumentFormat.OpenXml.xml
